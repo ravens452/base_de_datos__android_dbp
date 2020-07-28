@@ -11,8 +11,10 @@
     tools:showIn="@layout/act_main">
 
     <ListView
+        android:id="@+id/lstDatos"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="match_parent"
+        />
        
 
 </LinearLayout>
